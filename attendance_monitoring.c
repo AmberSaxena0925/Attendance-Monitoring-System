@@ -76,7 +76,6 @@ void deleteRecord() {
     printf("Record with ID %d not found.\n", id);
 }
 
-// Display
 int main() {
     int choice;
     while (1) {
